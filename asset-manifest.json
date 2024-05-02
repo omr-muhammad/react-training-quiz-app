@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-training-quiz-app/static/css/main.5e80a523.css",
+    "main.js": "/react-training-quiz-app/static/js/main.d324e869.js",
+    "index.html": "/react-training-quiz-app/index.html",
+    "main.5e80a523.css.map": "/react-training-quiz-app/static/css/main.5e80a523.css.map",
+    "main.d324e869.js.map": "/react-training-quiz-app/static/js/main.d324e869.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e80a523.css",
+    "static/js/main.d324e869.js"
+  ]
+}
